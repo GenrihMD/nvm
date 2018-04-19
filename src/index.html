@@ -22,7 +22,13 @@
         <header>
             <div class="content wraper">
                 <div class="header__logo">
-                    <img src="img/logo.png" alt="logo">
+                    <picture>
+                        <source media="(min-width: 1440px)" srcset="img/1440px/logo">
+                        <source media="(min-width: 1280px)" srcset="">
+                        <source media="(min-width: 1024px)" srcset="">
+                        <source media="(min-width: 768px)" srcset="">
+                        <img src="img/mobile/" alt="logo">
+                    </picture>
                 </div>
                 <div class="header__menuWraper">
                     <nav class="header__menu">
@@ -31,32 +37,116 @@
                         <div class="header__menu_item">Job</div> 
                         <div class="header__menu_item">Careers</div>
                     </nav>
+                </div>
+                <div id="header__burger">
+                    <picture>
+                        <source  srcset="img/mobile/menu@2x.png 2x, img/mobile/menu@1x.png 1x">
+                        <img src="img/mobile/menu@svg.svg" alt="header__burger">
+                    </picture>
                 </div>      
             </div>  
         </header>
 
-        <section id="topSection">
+        <section id="logoMaskContainer">
 
+        </section><!-- #logoMaskContainer -->
+
+        <section id="topSection">
+            <div class="content wraper">
+                <h1>it's all about your finance</h1>
+                <h2>coming soon …</h2>
+                <a href="#">
+                    <div class="outlineButton">
+                        <p>try to create together</p>
+                    </div>
+                </a>
+            </div>
         </section><!-- #topSection  -->
 
         <section id="aboutSection">
-
+            <h1>About</h1>
+            <p>Having access to financial services anytime and anywhere creates opportunity, empowers people and businesses to engage in the global economy. Novum provides you with the most convenient payment services via all technologies. We are working everyday to simplify difficult and complex processes, making expensive services cheaper. 
+                <br>Novum erases boundaries, becoming the number one banking alternative.
+            </p>
+            <a href="#">
+                <div class="underlineButton">
+                    try to edit
+                </div>
+            </a>            
         </section><!-- #aboutSection -->
 
         <section id="teamSection">
-
+            <h1>Team</h1>
+            <div class="content wraper">
+                <div class="teamSection__items">
+                    <div class="teamSection__itemWrapper">
+                        <div>
+                            <article class="teamSection__item">
+                            </article>
+                        </div>
+                    </div>
+                    <div class="teamSection__itemWrapper">
+                        <div>
+                            <article class="teamSection__item">
+                            </article>
+                        </div>
+                    </div>
+                    <div class="teamSection__itemWrapper">
+                        <div>
+                            <article class="teamSection__item">
+                            </article>
+                        </div>
+                    </div>
+                    <div class="teamSection__itemWrapper">
+                        <div>
+                            <article class="teamSection__item">
+                            </article>
+                        </div>
+                    </div>
+                    <div class="teamSection__itemWrapper">
+                        <div>
+                            <article class="teamSection__item">
+                            </article>
+                        </div>
+                    </div>
+                    <div class="teamSection__itemWrapper">
+                        <div>
+                            <article class="teamSection__item">
+                            </article>
+                        </div>
+                    </div>
+                    <div class="teamSection__itemWrapper">
+                        <div>
+                            <article class="teamSection__item">
+                            </article>
+                        </div>
+                    </div>
+                    <div class="teamSection__itemWrapper">
+                        <div>
+                            <article class="teamSection__item">
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section><!-- #teamSection  -->
 
         <section id="joinusSection">
 
         </section><!-- #joinusSection -->
 
+        <section id="partnersSection">
+
+        </section><!-- #partnersSection -->
+
+        <footer>
+
+        </footer>
 
         <script src="js/vendor/modernizr-{{MODERNIZR_VERSION}}.min.js"></script>
         <script src="https://code.jquery.com/jquery-{{JQUERY_VERSION}}.min.js" integrity="{{JQUERY_SRI_HASH}}" crossorigin="anonymous"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-{{JQUERY_VERSION}}.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
-
     </body>
 </html>
