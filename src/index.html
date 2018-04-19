@@ -3,19 +3,18 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title></title>
-        <meta name="description" content="">
+        <title>Novum - it's all about your finance</title>
+        <meta name="description" content="it's all about your finance">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
         <link rel="manifest" href="site.webmanifest">
         <link rel="apple-touch-icon" href="icon.png">
-        <!-- Place favicon.ico in the root directory -->
 
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
     </head>
     <body>
-        <!--[if lte IE 9]>
+        <!--[if lte IE 10]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
         <![endif]-->
 
@@ -85,12 +84,16 @@
                             </article>
                         </div>
                     </div>
+
+                <!-- vue template start-->
                     <div class="teamSection__itemWrapper">
                         <div>
                             <article class="teamSection__item">
                             </article>
                         </div>
                     </div>
+                <!-- vue template end-->
+
                     <div class="teamSection__itemWrapper">
                         <div>
                             <article class="teamSection__item">
@@ -131,16 +134,81 @@
             </div>
         </section><!-- #teamSection  -->
 
-        <section id="joinusSection">
+        <section id="offerVacancySection">
+            <!-- vue template start-->
+                <div class="offerVacancySection__itemWrapper">
+                    <div>
+                        <article class="offerVacancySection__item">
+                        </article>
+                    </div>
+                </div>
+            <!-- vue template end-->
+        </section><!-- #offerVacancySection -->
 
+        <section id="stepsSection">
+            <div class="wrapper">
+                <div class="content">
+                    <h1>Your<br>suggestions:</h1>
+                    <div class="steps"> 
+                        <!-- -->   
+                        <div class="step">
+                            <div class="step_icon"></div>
+                            <div class="step_text">
+                                <p class="step_description">Header</p>
+                                <p class="step_status"></p>
+                            </div>
+                        </div>      
+                        <!-- -->                  
+                        <div class="step">
+                            <div class="step_icon"></div>
+                            <div class="step_text">
+                                <p class="step_description">About</p>
+                                <p class="step_status"></p>
+                            </div>
+                        </div>
+                        <!-- vue template start-->
+                        <div class="step">
+                            <div class="step_icon"></div>
+                            <div class="step_text">
+                                <p class="step_description">Your role in the team</p>
+                                <p class="step_status"></p>
+                            </div>
+                        </div>
+                        <!-- vue template end-->
+                    </div>
+                    <div class="stepsSection__button">
+                        <img src="" alt="">
+                    </div>
+                </div>
+            </div>
+        </section><!-- #stepsSection -->
+
+        <section id="joinusSection">
+            <h1>Join us</h1>
+            <form action="#">
+                <p>Enter your e=mail:</p>
+                <input type="email" name="email" id="joinusSection__emailInput">
+                <p>Attach your CV:</p>
+                <div class="joinusSection__fileInputBox">
+                    <img src="" alt="" class="joinusSection__fileInputBox_icon">
+                    <p>Select file</p>
+                </div>
+                <button class="outlineButton">Save and send</button>
+            </form>
         </section><!-- #joinusSection -->
 
         <section id="partnersSection">
-
+            <h1>Partners</h1>
+            <div class="partnersItems">
+                <div class="partnersItems_item"></div>
+                <div class="partnersItems_item"></div>
+                <div class="partnersItems_item"></div>
+            </div>
         </section><!-- #partnersSection -->
 
         <footer>
-
+            <p class="copyright"> Novum © 2018 All rights reserved </p>
+            <a href="mailto:info@novum.is" class="footer_email">info@novum.is</a>
         </footer>
 
         <script src="js/vendor/modernizr-{{MODERNIZR_VERSION}}.min.js"></script>
