@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="609px" height="610px" viewBox="0 0 609 610" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>66BF33CB-5544-487A-81C2-F6A2BE1167E5@svg</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="82.9425869%" y1="9.35978504%" x2="18.7986428%" y2="90.2312999%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.0451766304" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-337.000000, -957.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M808.909882,1261.99792 C808.909882,1169.39211 733.956075,1094.31522 641.502077,1094.31522 C549.044381,1094.31522 474.090118,1169.39165 474.090118,1261.99792 C474.090118,1354.60789 549.043925,1429.68478 641.502077,1429.68478 C733.956531,1429.68478 808.909882,1354.60743 808.909882,1261.99792 Z M946,1261.99792 C946,1430.44417 809.669685,1567 641.502077,1567 C473.331144,1567 337,1430.445 337,1261.99792 C337,1093.55417 473.331973,957 641.502077,957 C809.668856,957 946,1093.555 946,1261.99792 Z" id="shapeBig"></path>
+        </g>
+    </g>
+</svg>

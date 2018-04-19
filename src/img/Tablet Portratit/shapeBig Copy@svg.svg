@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="666px" height="667px" viewBox="0 0 666 667" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>42A80017-F185-456E-8220-496D0AA76DC1@svg</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="82.9425869%" y1="9.35978504%" x2="18.7986428%" y2="90.2312999%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.0451766304" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet-Portratit" transform="translate(-52.000000, -1191.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M568,1524.49772 C568,1423.15778 486.066087,1341 385.002271,1341 C283.934411,1341 202,1423.15728 202,1524.49772 C202,1625.84222 283.933913,1708 385.002271,1708 C486.066585,1708 568,1625.84172 568,1524.49772 Z M718,1524.49773 C718,1708.68403 568.909705,1858 385.002272,1858 C201.091202,1858 52,1708.68494 52,1524.49773 C52,1340.31415 201.092108,1191 385.002272,1191 C568.908798,1191 718,1340.31506 718,1524.49773 Z" id="shapeBig-Copy"></path>
+        </g>
+    </g>
+</svg>

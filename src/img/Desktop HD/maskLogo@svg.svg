@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="412px" height="583px" viewBox="0 0 412 583" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>9CBD480E-31EF-4549-B1A5-056B770E2C8C@svg</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M319.255947,206.335821 C319.255947,143.686555 268.54828,92.8958785 206.001405,92.8958785 C143.452028,92.8958785 92.7440534,143.686246 92.7440534,206.335821 C92.7440534,268.987903 143.45172,319.778579 206.001405,319.778579 C268.548589,319.778579 319.255947,268.987594 319.255947,206.335821 Z M412,206.335821 C412,320.292318 319.769968,412.674457 206.001405,412.674457 C92.2305932,412.674457 0,320.29288 0,206.335821 C0,92.3810159 92.231154,0 206.001405,0 C319.769407,0 412,92.3815777 412,206.335821 Z M0,583 L0,498.323873 L412,498.323873 L412,583 L0,583 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-514.000000, -120.000000)">
+            <g id="mask" transform="translate(514.000000, 120.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="maskLogo" fill="#0D3050" fill-rule="nonzero" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

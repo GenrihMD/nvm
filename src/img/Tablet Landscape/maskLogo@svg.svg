@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="329px" height="466px" viewBox="0 0 329 466" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>F500D2B9-B289-4BE5-885E-88AAF039C6FC@svg</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M254.939821,164.927089 C254.939821,114.850659 214.447535,74.2529663 164.501122,74.2529663 C114.552712,74.2529663 74.0601786,114.850413 74.0601786,164.927089 C74.0601786,215.005768 114.552465,255.603461 164.501122,255.603461 C214.447781,255.603461 254.939821,215.005521 254.939821,164.927089 Z M329,164.927089 C329,256.0141 255.35029,329.856427 164.501122,329.856427 C73.6501582,329.856427 0,256.014549 0,164.927089 C0,73.8414296 73.650606,0 164.501122,0 C255.349842,0 329,73.8418786 329,164.927089 Z M0,466 L0,398.317195 L329,398.317195 L329,466 L0,466 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet-Landscape" transform="translate(-347.000000, -120.000000)">
+            <g id="mask" transform="translate(347.000000, 120.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="maskLogo" fill="#0D3050" fill-rule="nonzero" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

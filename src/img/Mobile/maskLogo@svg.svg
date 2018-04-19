@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="235px" height="332px" viewBox="0 0 235 332" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>0A41A035-3BB2-4521-932A-9A88F9DD139B@svg</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M182.099872,117.501703 C182.099872,81.8249334 153.17681,52.901255 117.500802,52.901255 C81.8233654,52.901255 52.9001276,81.8247575 52.9001276,117.501703 C52.9001276,153.180075 81.8231895,182.103753 117.500802,182.103753 C153.176986,182.103753 182.099872,153.179899 182.099872,117.501703 Z M235,117.501703 C235,182.396311 182.393064,235.005008 117.500802,235.005008 C52.6072558,235.005008 0,182.396631 0,117.501703 C0,52.6080571 52.6075757,0 117.500802,0 C182.392744,0 235,52.608377 235,117.501703 Z M0,332 L0,283.779633 L235,283.779633 L235,332 L0,332 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-70.000000, -130.000000)">
+            <g id="mask" transform="translate(70.000000, 130.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="maskLogo" fill="#0D3050" fill-rule="nonzero" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
