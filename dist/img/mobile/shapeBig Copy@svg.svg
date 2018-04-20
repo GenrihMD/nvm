@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="591px" viewBox="0 0 375 591" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>8EEBC6BA-3AEE-4CAB-B947-9592C689371B@svg</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="82.9425869%" y1="9.35978504%" x2="18.7986428%" y2="90.2312999%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.0451766304" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(0.000000, -693.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M350,988.497984 C350,898.755524 277.468339,826 188.00201,826 C98.5321019,826 26,898.755082 26,988.497984 C26,1078.24448 98.5316609,1151 188.00201,1151 C277.46878,1151 350,1078.24403 350,988.497984 Z M483,988.497984 C483,1151.69754 350.923012,1284 188.002012,1284 C25.0777912,1284 -107,1151.69835 -107,988.497984 C-107,825.300847 25.0785943,693 188.002012,693 C350.922209,693 483,825.301652 483,988.497984 Z" id="shapeBig-Copy"></path>
+        </g>
+    </g>
+</svg>

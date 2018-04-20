@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="609px" height="610px" viewBox="0 0 609 610" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>360C94E6-A4D3-4E31-8D83-2D99976443BB@svg</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="82.9425869%" y1="9.35978504%" x2="18.7986428%" y2="90.2312999%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.0451766304" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet-Landscape" transform="translate(-209.000000, -780.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M680.909882,1084.99792 C680.909882,992.392109 605.956075,917.315225 513.502077,917.315225 C421.044381,917.315225 346.090118,992.391653 346.090118,1084.99792 C346.090118,1177.60789 421.043925,1252.68478 513.502077,1252.68478 C605.956531,1252.68478 680.909882,1177.60743 680.909882,1084.99792 Z M818,1084.99792 C818,1253.44417 681.669685,1390 513.502077,1390 C345.331144,1390 209,1253.445 209,1084.99792 C209,916.554174 345.331973,780 513.502077,780 C681.668856,780 818,916.555004 818,1084.99792 Z" id="shapeBig-Copy"></path>
+        </g>
+    </g>
+</svg>
